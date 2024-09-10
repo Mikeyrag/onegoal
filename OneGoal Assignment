@@ -1,0 +1,28 @@
+# OneGoal Assignment
+
+**by: Michael Raji**
+
+## Q1
+
+#### Assumptions:
+
+In order to make the best design decisions for this dashboard, I had to step into the mind of the teacher. I assumed that the teacher mainly cares about viewing data for their own classroom, and wants one centralized view of classroom milestones, however would like to be able to compare their classroom to other classrooms. This assumption informed the design of the Classroom view for the dashboard which enables the teacher to view data for their own classroom, as well as a comparison view of their classroom to other classrooms. I also assumed that the teacher would like to be able to access data in tabular form, with some level of filtering ability. This informed the design of the Student Table. 
+
+#### Some questionss I had while creating this dashboard:
+
+= What does a exhaustive dashboard look like to teachers?
+= Is the data of other classrooms sensitive? Should it be visible to the teacher?
+= Would building in RAG to the dashboard be helpful?
+= To what extent do teachers want to be able to cusomize their visualization experience?
+
+## Q2
+
+#### 3 Questions for Mr.Schmitz:
+
+= How would you check on the progress of an indivudal student? 
+= How do you normally track your students' progress? 
+- What should the primary goal of a dashboard be, in your view? Does it achieve this goal?
+
+I chose these questions because they address a breadth of facets which embody the user experience. Question 1 asks them to navigate to specific data within the dashboard, a unit test for ease of use. The second question tries to understand the native user journey, and how they access data without the constraints of my dashboard. This optimizes for user behavior. The last question covers whether the core-functionality achieves what it is supposed to.
+
+
