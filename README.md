@@ -54,4 +54,4 @@ If you encounter any issues:
 2. Check that all CSV files are present in the project directory.
 3. Make sure you're using a compatible Python version (3.7+).
 
-For further assistance, please contact [Your Contact Information].
+For further assistance, please contact Michael R.
